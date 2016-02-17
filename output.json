@@ -1,0 +1,678 @@
+[
+    {
+        "name": "The Retreat",
+        "address": "\n\t\t\t\t\t1221 Wayzata Boulevard EastWayzata, MN 55391 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/community-of-recovering-people-dba-the-retreat/",
+        "ceoContact": {
+            "email": "djohnson@theretreat.org",
+            "name": " John Curtiss",
+            "phone": " (952)476-0566",
+            "fax": " (952)404-7208\t\t\t"
+        },
+        "admissionContact": {
+            "email": "rholm@theretreat.org",
+            "name": " Russell Holm",
+            "phone": " (952)476-0566",
+            "fax": " (952)404-7208\t\t\t"
+        },
+        "markettingContact": {
+            "email": "jleonard@theretreat.org",
+            "name": " John Leonard",
+            "phone": " (952)476-0566",
+            "fax": " (952)476-0566\t\t\t"
+        }
+    },
+    {
+        "name": "10th Street Clinic",
+        "address": "\n\t\t\t\t\t4800 S. 10th Street Milwaukee, WI 53221 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/10th-street-clinic-a-member-of-crc-health-group/"
+    },
+    {
+        "name": "12 Palms Recovery",
+        "address": "\n\t\t\t\t\t618 NE Jensen Beach Blvd.Jensen Beach, FL 34957 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/12-palms-recovery/",
+        "ceoContact": {
+            "email": "troy.keslar@gmail.com",
+            "name": " Troy Keslar",
+            "phone": " (866) 331-6779",
+            "fax": " (772) 225-0205\t\t\t"
+        },
+        "admissionContact": {
+            "email": "kwinntwelvepalms@gmail.com",
+            "name": " Kenny Winn",
+            "phone": " (772) 201-7892",
+            "fax": " (772) 225-0205\t\t\t"
+        }
+    },
+    {
+        "name": "449 Recovery",
+        "address": "\n\t\t\t\t\t1401 N. El Camino Real Suite 105San Clemente, CA 92672\t\t\t\t",
+        "href": "https://www.naatp.org/facility/449-recovery/"
+    },
+    {
+        "name": "A Better Today Recovery Services",
+        "address": "\n\t\t\t\t\t10609 North Hayden Rd. Ste. 8106Scottsdale, AZ 85260 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/a-better-today-recovery-services/",
+        "admissionContact": {
+            "email": "charles@abtrs.com",
+            "name": " Charles Anderson",
+            "phone": " (951)551-6413",
+            "fax": " (888)850-2184\t\t\t"
+        },
+        "markettingContact": {
+            "email": "corey.p@abtrs.com",
+            "name": " Corey Peterson",
+            "phone": " (877)347-7261",
+            "fax": " (888)850-2184\t\t\t"
+        }
+    },
+    {
+        "name": "A Forever Recovery",
+        "address": "\n\t\t\t\t\t216 St. Marys Lake RdBattle Creek, MI 49017 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/aforever-recovery/",
+        "admissionContact": {
+            "email": "panderson@rehabadmin.com",
+            "name": " Pamela  Anderson",
+            "phone": " <a href=\"mailto:panderson@rehabadmin.com\">panderson@rehabadmin.com</a>",
+            "fax": " 269-215-0209\t\t\t"
+        },
+        "markettingContact": {
+            "email": "landerson@rehabadmin.com",
+            "name": " Lewis Anderson",
+            "phone": "",
+            "fax": ""
+        }
+    },
+    {
+        "name": "A New Path",
+        "address": "\n\t\t\t\t\t520 S. 3rd Street Suite 12Carbondale, CO 81623 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/a-new-path/",
+        "admissionContact": {
+            "email": "frankie@anewpath.com",
+            "name": " Frankie Grundler",
+            "phone": " <a href=\"mailto:frankie@anewpath.com\">frankie@anewpath.com</a>",
+            "fax": " 855-WALKANP\t\t\t"
+        },
+        "markettingContact": {
+            "email": "jordan@anewpath.com",
+            "name": " Jordan  Spektor",
+            "phone": "",
+            "fax": ""
+        }
+    },
+    {
+        "name": "ABC Recovery Center",
+        "address": "\n\t\t\t\t\t44359 Palm StreetIndio, CA 92201 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/abc-recovery-center/",
+        "admissionContact": {
+            "email": "dlikens@abcrecoverycenter.org",
+            "name": " J. David Likens",
+            "phone": " (760)396-7436",
+            "fax": " (760)347-8276\t\t\t"
+        },
+        "markettingContact": {
+            "email": "tlevine@abcrecoverycenter.org",
+            "name": " Tiffany Levine",
+            "phone": " (760)342-6616",
+            "fax": " (760)347-8276\t\t\t"
+        }
+    },
+    {
+        "name": "Above It All Treatment Center",
+        "address": "\n\t\t\t\t\tPO Box 1502Lake Arrowhead, CA 92352 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/above-it-all-treatment-center/",
+        "admissionContact": {
+            "email": "kkory@mac.com",
+            "name": " Kory Avarell",
+            "phone": " <a href=\"mailto:kkory@mac.com\">kkory@mac.com</a>",
+            "fax": " (909) 337-3366"
+        },
+        "markettingContact": {
+            "email": "doreenr@aiatc.com",
+            "name": " Doreen  Rutherford",
+            "phone": "",
+            "fax": ""
+        }
+    },
+    {
+        "name": "Acadiana Addiction Center",
+        "address": "\n\t\t\t\t\t3008 W. PinhookLafayette, LA 70508 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/acadiana-1/",
+        "admissionContact": {
+            "email": "melanie.courville@acadiahealthcare.com",
+            "name": " Melanie Courville",
+            "phone": " <a href=\"mailto:melanie.courville@acadiahealthcare.com\">melanie.courville@acadiahealthcare.com</a>",
+            "fax": " 337-233-1111"
+        },
+        "markettingContact": {
+            "email": "lacretia.prudhomme@acadiahealthcare.com",
+            "name": " LaCretia  Prudhomme",
+            "phone": " 337-233-1111",
+            "fax": " 337-235-8888\t\t\t"
+        }
+    },
+    {
+        "name": "Active Internet Marketing",
+        "address": "\n\t\t\t\t\t1760 Forest Ridge Dr. Ste ATraverse City, MI 49686 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/michael-myles/"
+    },
+    {
+        "name": "Addiction Canada Treatment Network",
+        "address": "\n\t\t\t\t\t125 Edward St. Aurora , ON L4G 1C3 CA\t\t\t\t",
+        "href": "https://www.naatp.org/facility/addiction-canada/",
+        "markettingContact": {
+            "email": "john@addictioncanada.ca",
+            "name": " John H",
+            "phone": " <a href=\"mailto:john@addictioncanada.ca\">john@addictioncanada.ca</a>",
+            "fax": " 1-866-220-6151"
+        }
+    },
+    {
+        "name": "Addiction Hope",
+        "address": "\n\t\t\t\t\t8520 Golden Pheasant CtRedmond, OR 97756 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/addiction-hope-2/"
+    },
+    {
+        "name": "Addiction Institute of New York",
+        "address": "\n\t\t\t\t\t1000 Tenth Avenue, Suite 8C-02New York, NY 11570 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/addiction-institute-of-new-york/",
+        "admissionContact": {
+            "email": "Ghorowit@chpnet.org",
+            "name": " Gerald Horowitz, LCSW",
+            "phone": " (212)523-6881",
+            "fax": " (212)523-8057\t\t\t"
+        },
+        "markettingContact": {
+            "email": "",
+            "name": " ACCESS Center",
+            "phone": "",
+            "fax": ""
+        }
+    },
+    {
+        "name": "Addiction Recovery Resources, Inc. – Metairie",
+        "address": "\n\t\t\t\t\t4933 Wabash StreetMetairie, LA 70001 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/addiction-recovery-resources-inc-metairie/",
+        "admissionContact": {
+            "email": "roy.viger@arrno.com",
+            "name": " Roy Viger",
+            "phone": " <a href=\"mailto:roy.viger@arrno.com\">roy.viger@arrno.com</a>",
+            "fax": " (504)780-2766"
+        },
+        "markettingContact": {
+            "email": "laura.gray@arrno.com",
+            "name": " Laura Gray",
+            "phone": " (504)780-2766",
+            "fax": " (504)780-9699\t\t\t"
+        }
+    },
+    {
+        "name": "Addiction Recovery Resources, Inc. – New Orleans",
+        "address": "\n\t\t\t\t\t1615 Canal Street, Ste. A-1New Orleans, LA 70112 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/addiction-recovery-resources-inc-new-orleans/",
+        "admissionContact": {
+            "email": "roy.viger@arrno.com",
+            "name": " Roy Viger",
+            "phone": " <a href=\"mailto:roy.viger@arrno.com\">roy.viger@arrno.com</a>",
+            "fax": " (504)780-2766"
+        },
+        "markettingContact": {
+            "email": "laura.gray@arrno.com",
+            "name": " Laura Gray",
+            "phone": " (504)780-2766 ",
+            "fax": " (504)780-9699\t\t\t"
+        }
+    },
+    {
+        "name": "Addiction-Rep.com",
+        "address": "\n\t\t\t\t\t3 Bessom Street # 211Marblehead, MA 01945 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/addiction-rep-com/",
+        "ceoContact": {
+            "email": "naatp@addiction-rep.com",
+            "name": " Jim Peake",
+            "phone": " <a href=\"mailto:naatp@addiction-rep.com\">naatp@addiction-rep.com</a>",
+            "fax": " 781-405-5815\t\t\t"
+        }
+    },
+    {
+        "name": "Adolescent Growth Inc",
+        "address": "\n\t\t\t\t\tP. O. Box 910913Los Angeles , CA 90091 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/adolescent-growth-inc-2/",
+        "admissionContact": {
+            "email": "joilynlewis@adolescentgrowth.com",
+            "name": " Joilyn  Lewis",
+            "phone": " <a href=\"mailto:joilynlewis@adolescentgrowth.com\">joilynlewis@adolescentgrowth.com</a>",
+            "fax": " 888 948-9998 #1005"
+        },
+        "markettingContact": {
+            "email": "joilynlewis@adolescentgrowth.com",
+            "name": " Joilyn  Lewis",
+            "phone": " 888 759-9228",
+            "fax": " 888 758-9229\t\t\t"
+        }
+    },
+    {
+        "name": "Adolescent Growth Inc",
+        "address": "\n\t\t\t\t\tP. O. Box 910913Los Angeles , CA 90091 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/adolescent-growth-inc/",
+        "admissionContact": {
+            "email": "joilynlewis@adolescentgrowth.com",
+            "name": " Joilyn  Lewis",
+            "phone": " <a href=\"mailto:joilynlewis@adolescentgrowth.com\">joilynlewis@adolescentgrowth.com</a>",
+            "fax": " 888 948-9998 #1005"
+        },
+        "markettingContact": {
+            "email": "joilynlewis@adolescentgrowth.com",
+            "name": " Joilyn  Lewis",
+            "phone": " 888 759-9228",
+            "fax": " 888 758-9229\t\t\t"
+        }
+    },
+    {
+        "name": "Advanced Behavioral Medicine",
+        "address": "\n\t\t\t\t\t100 E. Sybelia Ave. Suite 250Maitland, FL 32751 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/advanced-behavioral-medicine/",
+        "admissionContact": {
+            "email": "sseikel@therecoveryvillage.com",
+            "name": " Stacy Seikel",
+            "phone": " <a href=\"mailto:sseikel@therecoveryvillage.com\">sseikel@therecoveryvillage.com</a>",
+            "fax": " 407-608-5331\t\t\t"
+        },
+        "markettingContact": {
+            "email": "kalexander@therecoveryvillage.com",
+            "name": " Krystal Alexander",
+            "phone": "",
+            "fax": ""
+        }
+    },
+    {
+        "name": "Advanced Health and Education",
+        "address": "\n\t\t\t\t\t3 Corbett WayEatontown, NJ 07724 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/advanced-health-and-education/",
+        "admissionContact": {
+            "email": "ian@advhealth.com",
+            "name": " Ian Gershman",
+            "phone": " <a href=\"mailto:ian@advhealth.com\">ian@advhealth.com</a>",
+            "fax": " 888-687-6977"
+        },
+        "markettingContact": {
+            "email": "erin@advhealth.com",
+            "name": " Erin Sherman",
+            "phone": " 888-687-6977",
+            "fax": " 732-542-1948\t\t\t"
+        }
+    },
+    {
+        "name": "Advanced Health and Education PA",
+        "address": "\n\t\t\t\t\t3600 Market StPhiladelphia, PA 19104 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/advanced-health-and-education-pa/",
+        "admissionContact": {
+            "email": "admissions@advhealth.com",
+            "name": " Irene Hoylie-Ristaino",
+            "phone": " <a href=\"mailto:admissions@advhealth.com\">admissions@advhealth.com</a>",
+            "fax": " 888-687-6977\t\t\t"
+        },
+        "markettingContact": {
+            "email": "",
+            "name": " admissions@advhealth.com \t\t\t",
+            "phone": "",
+            "fax": ""
+        }
+    },
+    {
+        "name": "AJ’s Amethyst House",
+        "address": "\n\t\t\t\t\t1119 W. 7th StreetSan Jacinto, CA 92582 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/ajs-amethyst-house/"
+    },
+    {
+        "name": "Alcohol & Drug Recovery Center – Cleveland Clinic Foundation",
+        "address": "\n\t\t\t\t\t9500 Euclid Ave. P57Cleveland, OH 44195 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/alcohol-drug-recovery-center-cleveland-clinic-foundation/"
+    },
+    {
+        "name": "Alere Toxicology",
+        "address": "\n\t\t\t\t\t14440 Myerlake CircleClearwater, FL 33760 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/avee-laboratories-inc/",
+        "ceoContact": {
+            "email": "nicole.gilbertson@alere.com",
+            "name": " Nicole Gilbertson",
+            "phone": " 253.709.1067\t\t\t",
+            "fax": ""
+        },
+        "admissionContact": {
+            "email": "stephnie.bickley@alere.com",
+            "name": " Stephnie Bickley",
+            "phone": " 949.742.1082\t\t\t",
+            "fax": ""
+        }
+    },
+    {
+        "name": "Alina Lodge",
+        "address": "\n\t\t\t\t\tPO Box GBlairstown, NJ 07825 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/alina-lodge/",
+        "admissionContact": {
+            "email": "mhornstein@alinalodge.org",
+            "name": " Michael Hornstein",
+            "phone": " <a href=\"mailto:mhornstein@alinalodge.org\">mhornstein@alinalodge.org</a>",
+            "fax": " (908)362-6114"
+        },
+        "markettingContact": {
+            "email": "pats@alinalodge.org",
+            "name": " Patricia Schneider",
+            "phone": " (908)362-6114",
+            "fax": " (908)362-1122\t\t\t"
+        }
+    },
+    {
+        "name": "Alkermes",
+        "address": "\n\t\t\t\t\t852 Winter St.Waltham, MA 02451 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/alkermes/"
+    },
+    {
+        "name": "Allied Health Services – Beaverton",
+        "address": "\n\t\t\t\t\t4650 SW Griffith DriveBeaverton, OR 97005 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/allied-health-services-portland-beaverton-a-member-of-crc-health-group/"
+    },
+    {
+        "name": "Allied Health Services – Medford",
+        "address": "\n\t\t\t\t\t837 East Main Street Medford, OR 97504 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/allied-health-services-medford-a-member-of-crc-health-group/"
+    },
+    {
+        "name": "Allied Health Services – Portland",
+        "address": "\n\t\t\t\t\t808 SW Alder, Suite 300Portland, OR 97205 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/allied-health-services-portland-a-member-of-crc-health-group/"
+    },
+    {
+        "name": "Allied Health Services – Portland – Burnside",
+        "address": "\n\t\t\t\t\t16141 E. BurnsidePortland, OR 97233 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/allied-health-services-portland-burnside-a-member-of-crc-health-group/"
+    },
+    {
+        "name": "Alpha Healing Center",
+        "address": "\n\t\t\t\t\t600 Pavonia Ave, 8th Floor,  Suite BJersey City, NJ 07306 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/alpha-healing-center/",
+        "ceoContact": {
+            "email": "contact@alphahealingcenter.com",
+            "name": " Janet  Boyle",
+            "phone": " 8442444325\t\t\t",
+            "fax": ""
+        }
+    },
+    {
+        "name": "Alta Mira Recovery Programs, A Constellation Behavioral Health Facility",
+        "address": "\n\t\t\t\t\t125 Bulkley Ave.Sausalito, CA 94965 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/alta-mira-recovery-centers/",
+        "admissionContact": {
+            "email": "wmorrison@altamirarecovery.com",
+            "name": " William Morrison",
+            "phone": " <a href=\"mailto:wmorrison@altamirarecovery.com\">wmorrison@altamirarecovery.com</a>",
+            "fax": " (415) 339-6081"
+        },
+        "markettingContact": {
+            "email": "lclarke@altamirarecovery.com",
+            "name": " Leslie Clarke",
+            "phone": " 1 (866) 922-1350",
+            "fax": " (415) 329-1423\t\t\t"
+        }
+    },
+    {
+        "name": "Alternatives in Treatment",
+        "address": "\n\t\t\t\t\t7601 N Federal Highway Suite 100BBoca Raton, FL 33487 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/alternatives-in-treatment/",
+        "admissionContact": {
+            "email": "jpetri@hyperionbilling.com",
+            "name": " Joseph Petri",
+            "phone": " <a href=\"mailto:jpetri@hyperionbilling.com\">jpetri@hyperionbilling.com</a>",
+            "fax": " 561-414-1126"
+        },
+        "markettingContact": {
+            "email": "kberger@alternativesintreatment.com",
+            "name": " Keith  Berger",
+            "phone": " 800-622-0866",
+            "fax": " 561-962-1825\t\t\t"
+        }
+    },
+    {
+        "name": "Ambrosia of the Palm Beaches",
+        "address": "\n\t\t\t\t\t2626 Lake DriveSinger Island, FL 33404 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/ambrosia-of-the-palm-beaches/",
+        "admissionContact": {
+            "email": "tloceff@ambrosiatreatmentcenter.com",
+            "name": " Jerry Haffey",
+            "phone": " <a href=\"mailto:tloceff@ambrosiatreatmentcenter.com\">tloceff@ambrosiatreatmentcenter.com</a>",
+            "fax": " 561-578-8600\t\t\t"
+        },
+        "markettingContact": {
+            "email": "abernstein@ambrosiatreatmentcenter.com",
+            "name": " Amy Bernstein",
+            "phone": " 561-598-6953",
+            "fax": " 561-921-8780\t\t\t"
+        }
+    },
+    {
+        "name": "American Addiction Centers",
+        "address": "\n\t\t\t\t\t115 E Park Dr 2nd FloorBrentwood, TN 37027 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/treatment-solutions/",
+        "admissionContact": {
+            "email": "Michael@Believablehope.com",
+            "name": " Michael Cartwright",
+            "phone": " <a href=\"mailto:Michael@Believablehope.com\">Michael@Believablehope.com</a>",
+            "fax": " 888.660.1922\t\t\t"
+        },
+        "markettingContact": {
+            "email": "",
+            "name": " Craig Stumpf",
+            "phone": "",
+            "fax": ""
+        }
+    },
+    {
+        "name": "Amity Foundation at Circle Tree Ranch",
+        "address": "\n\t\t\t\t\t10500 E Tanque Verde Rd.Tucson, AZ 85749 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/amity-foundation-at-circle-tree-ranch/",
+        "admissionContact": {
+            "email": "rmullen@amityfdn.org",
+            "name": " Mullen Rod",
+            "phone": " (520)749-7178",
+            "fax": " (520)749-4852\t\t\t"
+        },
+        "markettingContact": {
+            "email": "lyazzie@amityfdn.org",
+            "name": " Lisa Yazzie",
+            "phone": " (800)381-3318",
+            "fax": " (520)749-4852\t\t\t"
+        }
+    },
+    {
+        "name": "Anchorage Clinic",
+        "address": "\n\t\t\t\t\t121 West Fireweed Lane., Ste 105Anchorage, AK 99524 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/anchorage-clinic/"
+    },
+    {
+        "name": "Ann Arbor Treatment Center",
+        "address": "\n\t\t\t\t\t522 S. Maple Road Ann Arbor, MI 48103 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/ann-arbor-treatment-center/"
+    },
+    {
+        "name": "Aquila Recovery Clinic",
+        "address": "\n\t\t\t\t\t5100 Wisconsin Avenue NW Suite 307Washington, DC 20016 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/aquila-recovery-clinic/",
+        "admissionContact": {
+            "email": "johnny.allem@aquilarecovery.com",
+            "name": " Johnny Allem",
+            "phone": " <a href=\"mailto:johnny.allem@aquilarecovery.com\">johnny.allem@aquilarecovery.com</a>",
+            "fax": " 202-244-1600"
+        },
+        "markettingContact": {
+            "email": "robert.coffey@aquilarecovery.com",
+            "name": " Robert Coffey",
+            "phone": " 202-244-1600",
+            "fax": " 202-521-0617\t\t\t"
+        }
+    },
+    {
+        "name": "Archstone Recovery Center of the Palm Beaches",
+        "address": "\n\t\t\t\t\t501 W. Perry St.Lantana, FL 33462 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/archstone-recovery-center-of-the-palm-beaches/",
+        "ceoContact": {
+            "email": "cclaud@archstonerecovery.com",
+            "name": " Claud Cathy, MNM, CAP, CPP",
+            "phone": " <a href=\"mailto:cclaud@archstonerecovery.com\">cclaud@archstonerecovery.com</a>",
+            "fax": " (561) 588-8323"
+        },
+        "admissionContact": {
+            "email": "admissions@archstonerecovery.com",
+            "name": " Sally Sweeney",
+            "phone": " (888) 608-0011",
+            "fax": " (561) 588-1998\t\t\t"
+        },
+        "markettingContact": {
+            "email": "erousseau@archstonerecovery.com",
+            "name": " Eddie Rousseau",
+            "phone": " (561) 588-8323",
+            "fax": " (561) 588-1998\t\t\t"
+        }
+    },
+    {
+        "name": "Arrowhead Lodge",
+        "address": "\n\t\t\t\t\tPO Box 10835Prescott, AZ 86304 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/the-montana-society-inc/",
+        "admissionContact": {
+            "email": "kenneth.chance@arrowheadlodgerecovery.com",
+            "name": " Kenneth Chance",
+            "phone": " <a href=\"mailto:kenneth.chance@arrowheadlodgerecovery.com\">kenneth.chance@arrowheadlodgerecovery.com</a>",
+            "fax": " 928-288-2004"
+        },
+        "markettingContact": {
+            "email": "rubaharly@yahoo.com",
+            "name": " Robyn Chance",
+            "phone": " (888)654-2800",
+            "fax": " (928)268-3433\t\t\t"
+        }
+    },
+    {
+        "name": "Ascend Recovery",
+        "address": "\n\t\t\t\t\t6595 North 6000 West American Fork , UT 84003 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/ascend-recovery/",
+        "markettingContact": {
+            "email": "rsalter@ascendrecovery.com",
+            "name": " Ryan  Salter ",
+            "phone": " <a href=\"mailto:rsalter@ascendrecovery.com\">rsalter@ascendrecovery.com</a>",
+            "fax": " 801.216.4800"
+        }
+    },
+    {
+        "name": "Ashley, Inc.",
+        "address": "\n\t\t\t\t\t800 Tydings LaneHavre de Grace, MD 21078 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/ashley-inc/",
+        "admissionContact": {
+            "email": "mark.hushen@fmashley.com",
+            "name": " Mark Hushen",
+            "phone": " (410)273-2304",
+            "fax": " (410)273-7125\t\t\t"
+        },
+        "markettingContact": {
+            "email": "ldehorty@fmashley.com",
+            "name": " Lisa Dehorty",
+            "phone": " (410)273-2253",
+            "fax": " (410)272-1698\t\t\t"
+        }
+    },
+    {
+        "name": "AspenRidge Recovery",
+        "address": "\n\t\t\t\t\t900 S Kipling PKWYLakewood, CO 80226-3947 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/aspenridge-recovery/",
+        "admissionContact": {
+            "email": "cmathers@aspenridgerecovery.com",
+            "name": " Cortland Mathers",
+            "phone": " <a href=\"mailto:cmathers@aspenridgerecovery.com\">cmathers@aspenridgerecovery.com</a>",
+            "fax": " 877 736 9727\t\t\t"
+        },
+        "markettingContact": {
+            "email": "info@aspenridgerecovery.com",
+            "name": " Admissions",
+            "phone": "",
+            "fax": ""
+        }
+    },
+    {
+        "name": "Aspire Addiction Recovery Center",
+        "address": "\n\t\t\t\t\t3330 70th St. Ste. 120Lubbock, TX 79413 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/aspire-addiction-recovery-center/",
+        "admissionContact": {
+            "email": "rcasey@aspirearc.om",
+            "name": " Robin Casey ",
+            "phone": " <a href=\"mailto:rcasey@aspirearc.om\">rcasey@aspirearc.om</a>",
+            "fax": " 806-589-5911"
+        },
+        "markettingContact": {
+            "email": "cfowler@aspirearc.com",
+            "name": " Christie Fowler",
+            "phone": " 806-589-5911",
+            "fax": " 806-797-0414\t\t\t"
+        }
+    },
+    {
+        "name": "Aspire Recovery Center of Frisco",
+        "address": "\n\t\t\t\t\tUS\t\t\t\t",
+        "href": "https://www.naatp.org/facility/aspire-recovery-center-of-frisco/",
+        "admissionContact": {
+            "email": "jdakin@aspirefrisco.com",
+            "name": " John Dakin",
+            "phone": " <a href=\"mailto:jdakin@aspirefrisco.com\">jdakin@aspirefrisco.com</a>",
+            "fax": " 469-249-9363\t\t\t"
+        }
+    },
+    {
+        "name": "Astoria Pointe",
+        "address": "\n\t\t\t\t\t263 West ExchangeAstoria, OR 97103 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/astoria-pointe/"
+    },
+    {
+        "name": "Atchison Valley Hope",
+        "address": "\n\t\t\t\t\t1816 N Second   PO Box 312Atchison , KS 66002 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/atchison-valley-hope/",
+        "ceoContact": {
+            "email": "gregoire@valleyhope.com",
+            "name": " Ken Gregoire",
+            "phone": " <a href=\"mailto:gregoire@valleyhope.com\">gregoire@valleyhope.com</a>",
+            "fax": " (785)877-5111"
+        },
+        "admissionContact": {
+            "email": "",
+            "name": " (913)367-1618",
+            "phone": "",
+            "fax": ""
+        },
+        "markettingContact": {
+            "email": "kerbert@valleyhope.com",
+            "name": " Kathy Erbert",
+            "phone": " (785)874-5239",
+            "fax": " (785)874-5274\t\t\t"
+        }
+    },
+    {
+        "name": "Athens Area Commencement Center",
+        "address": "\n\t\t\t\t\t1175 Mitchell Bridge RoadAthens, GA 30606 US\t\t\t\t",
+        "href": "https://www.naatp.org/facility/athens-area-commencement-center/",
+        "ceoContact": {
+            "email": "jhinzman@thecommencementcenter.com",
+            "name": " James L. Hinzman",
+            "phone": " (706)546-7355",
+            "fax": " (706)546-8439\t\t\t"
+        },
+        "admissionContact": {
+            "email": "rhinzman@thecommencementcenter.com",
+            "name": " Robert L. Hinzman",
+            "phone": " (706)546-7355",
+            "fax": " (706)546-8439\t\t\t"
+        },
+        "markettingContact": {
+            "email": "jhinzman@thecommencementcenter.com",
+            "name": " James L. Hinzman",
+            "phone": " (706)546-7355",
+            "fax": " (706)546-8439\t\t\t"
+        }
+    }
+]
